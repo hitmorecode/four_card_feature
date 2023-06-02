@@ -43,24 +43,21 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-
+- CSS Grid
 
 ### What I learned
 
-This challenge was a good way to practice using flexbox and position.
-Using flexbox and position is very useful once you understand the basics of these concepts.
+For this challenge I decided to go with css grid. I tried to use only css grid, but I wasn't so easy to do it just using css grid. So I combined css grid and flexbox to get the final result.
 
 ### Continued development
 
-Using flexbox and position was not so easy to start with, since I'm still new with these concepts. I'll be focusing on these subjects for the coming challenges.
-
-The challenge was to create a NFT card, but I added three more cards to start practicing responsiveness.
+Continue to learn how to combine flexbox and css grid to create the desired layout.
 
 ### Useful resources
 
 - [CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is an amazing article which helped me getting started with flexbox. I'd recommend it to anyone still learning this concept.
 - [Colt Steele - Flexbox tutorial](https://www.youtube.com/watch?v=qZv-rNx0jEA) - This video helped me understand flexbox. If you are struggling with flexbox like I did, I recommend this video.
-- [Web Dev Simplefied - CSS position](https://www.youtube.com/watch?v=jx5jmI0UlXU) - This tutorial explains how position works.
+- [Kevin Powell - CSS Grid](https://www.youtube.com/watch?v=8QSqwbSztnA) - Great video tutorial to learn css grid.
 
 ## Author
 
