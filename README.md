@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [HTML Solution](https://github.com/hitmorecode/NFT_preview_card_component/blob/main/index.html)
-- Solution URL: [CSS Solution](https://github.com/hitmorecode/NFT_preview_card_component/blob/main/css/style.css)
+- Solution URL: [HTML Solution](https://github.com/hitmorecode/four_card_feature/blob/main/index.html)
+- Solution URL: [CSS Solution](https://github.com/hitmorecode/four_card_feature/blob/main/css/style.css)
 - Live Site URL: [Live site](https://hitmorecode.github.io/NFT_preview_card_component/)
 
 ## My process
