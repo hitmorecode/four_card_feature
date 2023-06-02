@@ -47,7 +47,7 @@ Users should be able to:
 
 ### What I learned
 
-For this challenge I decided to go with css grid. I tried to use only css grid, but I wasn't so easy to do it just using css grid. So I combined css grid and flexbox to get the final result.
+For this challenge I decided to go with css grid. I tried to use only css grid, but it wasn't so easy to do it just using css grid. So I combined css grid and flexbox to get the final result.
 
 ### Continued development
 
