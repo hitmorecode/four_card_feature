@@ -17,7 +17,7 @@
   --font-weight-200: 200;
   --font-weight-400: 400;
   --font-weight-600: 600;
-  --box-shadow: hsla(209, 70%, 87%, 0.603);
+  --box-shadow: hsla(207, 9%, 81%, 0.603);
 }
 
 body {
@@ -76,7 +76,7 @@ h1 {
   padding: 32px;
   border-radius: 5px;
   background-color: var(--neutral-very-light-gray);
-  box-shadow: 3px 6px 15px 3px var(--box-shadow), -3px 6px 15px var(--box-shadow);
+  box-shadow: 3px 6px 15px 3px var(--box-shadow), -1px 2px 6px var(--box-shadow);
 }
 
 .box-1 {
