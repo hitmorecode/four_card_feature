@@ -17,7 +17,7 @@
   --font-weight-200: 200;
   --font-weight-400: 400;
   --font-weight-600: 600;
-  --box-shadow: hsla(207, 9%, 81%, 0.603);
+  --box-shadow: hsla(207, 9%, 81%, 0.603); /* color changed */
 }
 
 body {
