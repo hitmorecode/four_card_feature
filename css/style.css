@@ -77,6 +77,7 @@ h1 {
   border-radius: 5px;
   background-color: var(--neutral-very-light-gray);
   box-shadow: 3px 6px 15px 3px var(--box-shadow), -1px 2px 6px var(--box-shadow);
+  overflow: hidden; /* to merge corners of top-bar with border-radius of the card */
 }
 
 .box-1 {
@@ -91,7 +92,7 @@ h1 {
   left: 0;
   height: 4px;
   width: inherit;
-  border-radius: 5px 5px 0 0;
+  /* border-radius: 5px 5px 0 0; */ /* overflow in box will create the border radius */
 }
 
 .supervisor-bar {
